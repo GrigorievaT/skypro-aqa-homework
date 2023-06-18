@@ -1,7 +1,6 @@
 def print_num(num):
-    print(num)
-    return num
-print_num(8)
+    print(num, end=' ')
+print_num(8)    
 print_num(8)
 print_num(0)
 print_num(0)
